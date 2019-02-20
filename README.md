@@ -3,4 +3,4 @@
 #Staging Area
 -double check area
 #Git Reporsitory
--where all our snapshots are stored
+-where all our snapshots are stored 
